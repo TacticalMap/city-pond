@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p75",
+  "id": "tacticalmap-p75",
+  "title": "TM City pond",
+  "description": "Part of the city with a pond. The set includes roofs. And also versions of the map without a city in the forest.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "city-pond",
+      "label": "TM City pond",
+      "path": "packs/city-pond.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "city-pond",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/TacticalMap/Maps/blob/main/module.json",
+  "download": "https://github.com/TacticalMap/Maps/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false
+}
