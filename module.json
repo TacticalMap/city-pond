@@ -28,8 +28,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/TacticalMap/Maps/blob/main/module.json",
-  "download": "https://github.com/TacticalMap/Maps/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/TacticalMap/city-pond/main/module.json",
+  "download": "https://github.com/TacticalMap/city-pond/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
 }
